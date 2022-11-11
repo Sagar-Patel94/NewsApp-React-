@@ -1,0 +1,15 @@
+npx create-react-app@5.0.1 newsapp
+
+api key :- 038437901b0e4d55a4af394cf7bff2ce
+
+https://www.youtube.com/watch?v=x9p-4QGh-OI&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=24
+Project 2 Setup + Introduction to Class based components
+
+https://www.youtube.com/watch?v=9xjuIe4KM-4&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=23
+Component Structure of our NewsMonkey React App
+
+https://www.youtube.com/watch?v=fSFlvm56JwM&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=24
+Fetching API Key from News API
+
+https://www.youtube.com/watch?v=OmoRSF1Ta6A&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=25   7:30 min.
+Understanding state in class based components
