@@ -11,5 +11,17 @@ Component Structure of our NewsMonkey React App
 https://www.youtube.com/watch?v=fSFlvm56JwM&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=24
 Fetching API Key from News API
 
-https://www.youtube.com/watch?v=OmoRSF1Ta6A&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=25   7:30 min.
+https://www.youtube.com/watch?v=OmoRSF1Ta6A&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=25
 Understanding state in class based components
+
+https://www.youtube.com/watch?v=ANKGfdi8Ki4&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=26
+Looping through an array in JSX to display NewsItems from state
+
+https://www.youtube.com/watch?v=cIqgQn-XBIQ&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=27
+Using Fetch API in React to populate NewsItems
+
+https://www.youtube.com/watch?v=FOjrXXdiCMs&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=28
+Adding Previous & Next Buttons to populate NewsItems
+
+https://www.youtube.com/watch?v=sUGwamqnJnY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=29   09:00 min
+Adding loading spinner & variable pageSize to NewsMonkey
