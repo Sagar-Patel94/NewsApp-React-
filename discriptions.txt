@@ -23,5 +23,5 @@ Using Fetch API in React to populate NewsItems
 https://www.youtube.com/watch?v=FOjrXXdiCMs&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=28
 Adding Previous & Next Buttons to populate NewsItems
 
-https://www.youtube.com/watch?v=sUGwamqnJnY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=29   09:00 min
+https://www.youtube.com/watch?v=sUGwamqnJnY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=29   14:00 min
 Adding loading spinner & variable pageSize to NewsMonkey
