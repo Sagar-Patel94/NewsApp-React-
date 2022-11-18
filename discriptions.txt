@@ -23,5 +23,20 @@ Using Fetch API in React to populate NewsItems
 https://www.youtube.com/watch?v=FOjrXXdiCMs&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=28
 Adding Previous & Next Buttons to populate NewsItems
 
-https://www.youtube.com/watch?v=sUGwamqnJnY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=29   14:00 min
+https://www.youtube.com/watch?v=sUGwamqnJnY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=29
 Adding loading spinner & variable pageSize to NewsMonkey
+
+https://www.youtube.com/watch?v=L3zCEwGpK9I&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=30
+Adding Categories & propTypes to NewsMonkey React App
+
+https://www.youtube.com/watch?v=y9ns0Cpp2do&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=31
+Fetching News category wise in NewsMonkey React App
+
+https://www.youtube.com/watch?v=tEm62tTwZE0&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=32
+Adding time, author and news source to News React App
+
+https://www.youtube.com/watch?v=ZJMd2mN0sbs&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=33
+Refactoring News component to use the same function
+
+https://www.youtube.com/watch?v=abjeWy4sZiU&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&index=34   11 min.
+React Component Lifecycle & Lifecycle methods
